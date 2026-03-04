@@ -1,0 +1,11 @@
+target,comparison,p_value,note
+MaxT,mlp vs linear,0.212376,
+MaxT,mlp vs mlp,,reference
+MaxT,mlp vs xgboost,0.0,
+MaxT,mlp vs lightgbm,0.0,
+MaxT,mlp vs catboost,0.0,
+MinT,linear vs linear,,reference
+MinT,linear vs mlp,0.424452,
+MinT,linear vs xgboost,0.0,
+MinT,linear vs lightgbm,0.0,
+MinT,linear vs catboost,0.0,

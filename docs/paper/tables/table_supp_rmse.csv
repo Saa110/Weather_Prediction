@@ -1,0 +1,11 @@
+target,architecture,hf_rmse,era5_rmse,improvement_pct
+MaxT,linear,1.17,1.548,24.4
+MaxT,mlp,1.165,1.554,25.0
+MaxT,xgboost,1.487,1.8,17.4
+MaxT,lightgbm,2.078,2.003,-3.7
+MaxT,catboost,1.713,1.868,8.3
+MinT,linear,1.396,1.718,18.7
+MinT,mlp,1.398,1.744,19.8
+MinT,xgboost,1.718,1.928,10.9
+MinT,lightgbm,2.187,2.081,-5.1
+MinT,catboost,1.864,1.992,6.4

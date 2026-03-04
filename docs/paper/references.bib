@@ -1,0 +1,230 @@
+% ======================================================================
+%  References for: Historical Forecasts vs Reanalysis as Training Data
+%  for ML-Based Model Output Statistics
+% ======================================================================
+
+% --- Classical MOS and Statistical Post-Processing ---
+
+@article{glahn1972mos,
+  author  = {Glahn, Harry R. and Lowry, Dale A.},
+  title   = {The Use of Model Output Statistics ({MOS}) in Objective Weather Forecasting},
+  journal = {Journal of Applied Meteorology},
+  volume  = {11},
+  number  = {8},
+  pages   = {1203--1211},
+  year    = {1972},
+  doi     = {10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2}
+}
+
+@book{wilks2011statistical,
+  author    = {Wilks, Daniel S.},
+  title     = {Statistical Methods in the Atmospheric Sciences},
+  edition   = {3rd},
+  publisher = {Academic Press},
+  year      = {2011},
+  isbn      = {978-0-12-385022-5}
+}
+
+@article{vannitsem2021statistical,
+  author  = {Vannitsem, St{\'e}phane and Bremnes, John Bj{\o}rnar and Demaeyer, Jonathan and Evans, Gavin R. and Flowerdew, Jonathan and Hemri, Stephan and Lerch, Sebastian and Roberts, Nigel and Theis, Susanne and Atencia, Aitor and others},
+  title   = {Statistical Postprocessing for Weather Forecasts: Review, Challenges, and Avenues in a Big Data World},
+  journal = {Bulletin of the American Meteorological Society},
+  volume  = {102},
+  number  = {3},
+  pages   = {E681--E699},
+  year    = {2021},
+  doi     = {10.1175/BAMS-D-19-0308.1}
+}
+
+@article{carter1989mos,
+  author  = {Carter, Gary M. and Dallavalle, J. Paul and Glahn, Harry R.},
+  title   = {Statistical Forecasts Based on the National Meteorological Center's Numerical Weather Prediction System},
+  journal = {Weather and Forecasting},
+  volume  = {4},
+  number  = {3},
+  pages   = {401--412},
+  year    = {1989},
+  doi     = {10.1175/1520-0434(1989)004<0401:SFBOTN>2.0.CO;2}
+}
+
+% --- Modern ML-Based Post-Processing ---
+
+@article{rasp2018neural,
+  author  = {Rasp, Stephan and Lerch, Sebastian},
+  title   = {Neural Networks for Postprocessing Ensemble Weather Forecasts},
+  journal = {Monthly Weather Review},
+  volume  = {146},
+  number  = {11},
+  pages   = {3885--3900},
+  year    = {2018},
+  doi     = {10.1175/MWR-D-18-0187.1}
+}
+
+@article{taillardat2016calibrated,
+  author  = {Taillardat, Maxime and Mestre, Olivier and Zamo, Micha{\"e}l and Naveau, Philippe},
+  title   = {Calibrated Ensemble Forecasts Using Quantile Regression Forests and Ensemble Model Output Statistics},
+  journal = {Monthly Weather Review},
+  volume  = {144},
+  number  = {6},
+  pages   = {2375--2393},
+  year    = {2016},
+  doi     = {10.1175/MWR-D-15-0260.1}
+}
+
+@article{schulz2022machine,
+  author  = {Schulz, Benedikt and Lerch, Sebastian},
+  title   = {Machine Learning Methods for Postprocessing Ensemble Forecasts of Wind Gusts: A Systematic Comparison},
+  journal = {Monthly Weather Review},
+  volume  = {150},
+  number  = {1},
+  pages   = {235--257},
+  year    = {2022},
+  doi     = {10.1175/MWR-D-21-0150.1}
+}
+
+@article{haupt2021first,
+  author  = {Haupt, Sue Ellen and Chapman, William and Adams, Samantha V. and Kirkwood, Charlie and Hosking, J. Scott and Robinson, Niall H. and Lerch, Sebastian and Subramanian, Aneesh C.},
+  title   = {Towards Implementing Artificial Intelligence Post-processing in Weather and Climate: Proposed Actions from the {Oxford 2019} Workshop},
+  journal = {Philosophical Transactions of the Royal Society A},
+  volume  = {379},
+  number  = {2194},
+  pages   = {20200091},
+  year    = {2021},
+  doi     = {10.1098/rsta.2020.0091}
+}
+
+@article{mcgovern2017using,
+  author  = {McGovern, Amy and Elmore, Kim L. and Gagne II, David John and Haupt, Sue Ellen and Karstens, Chris D. and Lagerquist, Ryan and Smith, Travis and Williams, John K.},
+  title   = {Using Artificial Intelligence to Improve Real-Time Decision-Making for High-Impact Weather},
+  journal = {Bulletin of the American Meteorological Society},
+  volume  = {98},
+  number  = {10},
+  pages   = {2073--2090},
+  year    = {2017},
+  doi     = {10.1175/BAMS-D-16-0123.1}
+}
+
+% --- Data Sources ---
+
+@article{hersbach2020era5,
+  author  = {Hersbach, Hans and Bell, Bill and Berrisford, Paul and Hirahara, Shoji and Hor{\'a}nyi, Andr{\'a}s and Mu{\~n}oz-Sabater, Joaqu{\'i}n and Nicolas, Julien and Peubey, Carole and Radu, Raluca and Schepers, Dinand and others},
+  title   = {The {ERA5} Global Reanalysis},
+  journal = {Quarterly Journal of the Royal Meteorological Society},
+  volume  = {146},
+  number  = {730},
+  pages   = {1999--2049},
+  year    = {2020},
+  doi     = {10.1002/qj.3803}
+}
+
+@techreport{ncep2021gfs,
+  author      = {{Environmental Modeling Center}},
+  title       = {{Global Forecast System (GFS)} Documentation},
+  institution = {NOAA/NCEP},
+  year        = {2021},
+  url         = {https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs.php}
+}
+
+@misc{zippenfenig2023openmeteo,
+  author  = {Zippenfenig, Patrick},
+  title   = {Open-Meteo.com Weather {API}},
+  year    = {2023},
+  doi     = {10.5281/zenodo.7970649},
+  url     = {https://open-meteo.com/}
+}
+
+% --- ML Model Papers ---
+
+@inproceedings{chen2016xgboost,
+  author    = {Chen, Tianqi and Guestrin, Carlos},
+  title     = {{XGBoost}: A Scalable Tree Boosting System},
+  booktitle = {Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  pages     = {785--794},
+  year      = {2016},
+  doi       = {10.1145/2939672.2939785}
+}
+
+@inproceedings{ke2017lightgbm,
+  author    = {Ke, Guolin and Meng, Qi and Finley, Thomas and Wang, Taifeng and Chen, Wei and Ma, Weidong and Ye, Qiwei and Liu, Tie-Yan},
+  title     = {{LightGBM}: A Highly Efficient Gradient Boosting Decision Tree},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {30},
+  pages     = {3146--3154},
+  year      = {2017}
+}
+
+@inproceedings{prokhorenkova2018catboost,
+  author    = {Prokhorenkova, Liudmila and Gusev, Gleb and Vorobev, Aleksandr and Dorogush, Anna Veronika and Gulin, Andrey},
+  title     = {{CatBoost}: Unbiased Boosting with Categorical Features},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {31},
+  pages     = {6638--6648},
+  year      = {2018}
+}
+
+% --- Statistical Methods ---
+
+@article{koenker1978quantile,
+  author  = {Koenker, Roger and Bassett Jr., Gilbert},
+  title   = {Regression Quantiles},
+  journal = {Econometrica},
+  volume  = {46},
+  number  = {1},
+  pages   = {33--50},
+  year    = {1978},
+  doi     = {10.2307/1913643}
+}
+
+@inproceedings{romano2019conformal,
+  author    = {Romano, Yaniv and Patterson, Evan and Cand{\`e}s, Emmanuel},
+  title     = {Conformalized Quantile Regression},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {32},
+  pages     = {3543--3553},
+  year      = {2019}
+}
+
+@article{kunsch1989jackknife,
+  author  = {K{\"u}nsch, Hans R.},
+  title   = {The Jackknife and the Bootstrap for General Stationary Observations},
+  journal = {The Annals of Statistics},
+  volume  = {17},
+  number  = {3},
+  pages   = {1217--1241},
+  year    = {1989},
+  doi     = {10.1214/aos/1176347265}
+}
+
+@article{wilcoxon1945individual,
+  author  = {Wilcoxon, Frank},
+  title   = {Individual Comparisons by Ranking Methods},
+  journal = {Biometrics Bulletin},
+  volume  = {1},
+  number  = {6},
+  pages   = {80--83},
+  year    = {1945},
+  doi     = {10.2307/3001968}
+}
+
+% --- Prediction Markets ---
+
+@article{snowberg2013prediction,
+  author  = {Snowberg, Erik and Wolfers, Justin and Zitzewitz, Eric},
+  title   = {Prediction Markets for Economic Forecasting},
+  journal = {Handbook of Economic Forecasting},
+  volume  = {2},
+  pages   = {657--687},
+  year    = {2013},
+  doi     = {10.1016/B978-0-444-53683-9.00011-6}
+}
+
+% --- Feature Importance ---
+
+@inproceedings{lundberg2017shap,
+  author    = {Lundberg, Scott M. and Lee, Su-In},
+  title     = {A Unified Approach to Interpreting Model Predictions},
+  booktitle = {Advances in Neural Information Processing Systems},
+  volume    = {30},
+  pages     = {4765--4774},
+  year      = {2017}
+}

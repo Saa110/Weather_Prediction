@@ -1,0 +1,29 @@
+station_id,city,climate_type,lat,lon
+KORD,"Chicago O'Hare, IL",Continental,41.96,-87.932
+KMDW,"Chicago Midway, IL",Continental,41.784,-87.755
+KMSP,"Minneapolis, MN",Continental,44.885,-93.222
+KDTW,"Detroit, MI",Continental,42.212,-83.353
+KDEN,"Denver, CO",Continental,39.856,-104.674
+KOKC,"Oklahoma City, OK",Continental,35.393,-97.601
+KNYC,"New York Central Park, NY",NE Coastal,40.779,-73.969
+KLGA,"LaGuardia, NY",NE Coastal,40.777,-73.873
+KBOS,"Boston, MA",NE Coastal,42.366,-71.01
+KPHL,"Philadelphia, PA",NE Coastal,39.872,-75.241
+KDCA,Washington D.C.,NE Coastal,38.851,-77.04
+KATL,"Atlanta, GA",SE Subtropical,33.63,-84.422
+KCLT,"Charlotte, NC",SE Subtropical,35.214,-80.947
+KBNA,"Nashville, TN",SE Subtropical,36.124,-86.678
+KJAX,"Jacksonville, FL",SE Subtropical,30.494,-81.688
+KTPA,"Tampa, FL",SE Subtropical,27.976,-82.533
+KMIA,"Miami, FL",SE Subtropical,25.788,-80.317
+KHOU,"Houston, TX",Gulf/SC,29.645,-95.279
+KMSY,"New Orleans, LA",Gulf/SC,29.993,-90.258
+KDFW,"Dallas DFW, TX",Gulf/SC,32.9,-97.04
+KDAL,"Dallas Love, TX",Gulf/SC,32.847,-96.852
+KAUS,"Austin, TX",Gulf/SC,30.21,-97.681
+KSAT,"San Antonio, TX",Gulf/SC,29.534,-98.47
+KLAX,"Los Angeles, CA",Pacific,33.938,-118.387
+KSFO,"San Francisco, CA",Pacific,37.621,-122.379
+KSEA,"Seattle, WA",Pacific,47.45,-122.309
+KPHX,"Phoenix, AZ",Arid,33.437,-112.008
+KLAS,"Las Vegas, NV",Arid,36.084,-115.154

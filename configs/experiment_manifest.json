@@ -1,0 +1,7178 @@
+{
+  "2": [
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    }
+  ],
+  "3": [
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "xgboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "lightgbm",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "linear",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "mlp",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    }
+  ],
+  "4": [
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2024-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2023-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2021-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2020-07-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2018-01-01",
+      "train_end": "2025-06-30"
+    }
+  ],
+  "5": [
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KATL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KAUS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBNA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KBOS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KCLT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDAL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDCA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDEN",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDFW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KDTW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KHOU",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KJAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAS",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLAX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KLGA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMDW",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMIA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSP",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KMSY",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KNYC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KOKC",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KORD",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHL",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KPHX",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSAT",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSEA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KSFO",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "historical_forecast",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MaxT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    },
+    {
+      "station": "KTPA",
+      "source": "reanalysis",
+      "arch": "catboost",
+      "target": "MinT",
+      "train_start": "2022-01-01",
+      "train_end": "2025-06-30"
+    }
+  ]
+}

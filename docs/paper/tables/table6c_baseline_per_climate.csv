@@ -1,0 +1,13 @@
+climate_type,target,gfs_mae,ecmwf_mae,blend_mae,model_mae,skill_vs_gfs,improvement_vs_gfs_pct
+Arid,MaxT,1.007,2.322,1.6,0.65,0.242,24.25
+Arid,MinT,1.326,2.318,1.405,0.78,0.412,41.25
+Continental,MaxT,1.044,1.934,1.337,0.904,0.114,11.4
+Continental,MinT,1.599,2.65,2.001,1.147,0.249,24.933
+Gulf/SC,MaxT,1.2,2.815,1.876,0.809,0.272,27.25
+Gulf/SC,MinT,1.617,2.254,1.769,1.097,0.216,21.65
+NE Coastal,MaxT,1.148,2.189,1.509,0.907,0.194,19.42
+NE Coastal,MinT,2.123,2.54,2.245,1.157,0.429,42.94
+Pacific,MaxT,1.393,3.766,2.236,1.004,0.265,26.5
+Pacific,MinT,1.734,1.677,1.414,0.928,0.415,41.467
+SE Subtropical,MaxT,1.997,2.905,2.4,0.861,0.549,54.9
+SE Subtropical,MinT,1.47,1.688,1.438,0.982,0.275,27.517

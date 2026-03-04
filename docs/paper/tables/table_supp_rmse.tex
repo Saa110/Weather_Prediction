@@ -1,0 +1,24 @@
+\begin{table}[ht]
+\centering
+\caption{Supplementary: mean RMSE (\textdegree{}F) by architecture and data source
+(3-year training window, 28~stations). Layout mirrors Table~2.}
+\label{tab:supp_rmse}
+\small
+\begin{tabular}{llccc}
+\toprule
+Target & Architecture & HF RMSE & ERA5 RMSE & Improv.\ (\%) \\
+\midrule
+  \multirow{5}{*}{MaxT} & Linear & 1.170 & 1.548 & 24.4 \\
+   & MLP & 1.165 & 1.554 & 25.0 \\
+   & XGBoost & 1.487 & 1.800 & 17.4 \\
+   & LightGBM & 2.078 & 2.003 & -3.7 \\
+   & CatBoost & 1.713 & 1.868 & 8.3 \\
+\midrule
+  \multirow{5}{*}{MinT} & Linear & 1.396 & 1.718 & 18.7 \\
+   & MLP & 1.398 & 1.744 & 19.8 \\
+   & XGBoost & 1.718 & 1.928 & 10.9 \\
+   & LightGBM & 2.187 & 2.081 & -5.1 \\
+   & CatBoost & 1.864 & 1.992 & 6.4 \\
+\bottomrule
+\end{tabular}
+\end{table}
